@@ -1,7 +1,7 @@
 ## Olá! eu sou Guilherme Barreto 😀
 
 - 🔭 Eu trabalho com front-end e back-end
-- 🌱 Eu estou aprofundando meus conhecimentos em javascript, e aprendendo back-end em node.js com frameworks como express
+- trabalho com JS, CSS, Node, TS, uso os frameworks angular para frontend e express para backend
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barreto-88aaa2175/)
 
