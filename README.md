@@ -1,9 +1,8 @@
 ## Olá! eu sou Guilherme Barreto 😀
 
 - 🔭 Eu trabalho com front-end e back-end
-- trabalho com JS, CSS, HTML, Node, SQL e TS.  Uso os frameworks angular para frontend e express para backend, no banco de dados uso Mysql mas tambem sei Mongo db 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barreto-88aaa2175/)
+- linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barreto-88aaa2175/)
 
 ![Gilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilherme&show_icons=true&theme=dracula)
 
